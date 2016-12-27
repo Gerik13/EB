@@ -34,7 +34,7 @@ namespace LanguageTranslator
             { "en-US", Language.English },
             { "en-GB", Language.English },
             { "es-ES", Language.Spanish },
-            { "ru-RU", Language.Rissua },
+            { "ru-RU", Language.Rissia },
             { "de-DE", Language.German },
             { "it-IT", Language.Italian },
             { "pt-BR", Language.Portuguese },
