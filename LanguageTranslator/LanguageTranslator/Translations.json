@@ -22,8 +22,8 @@
                   "18": "Gapcloser",
                   "19": "Spells to be detected:"
             },
-            "French": {
-                  "0": "Core",
+            "Russia": {
+                  "0": "Основа",
                   "1": "Ticks Par Secondes",
                   "2": "         Valeur recommandée: 25.",
                   "3": "Note: Les ticks par secondes représentent le nombre de fois l'événement Game.OnTick doit être appelé.",
